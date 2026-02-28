@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_key",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_door",
+  "eventList":[],
   "managed":true,
-  "name":"obj_key",
+  "name":"obj_door",
   "overriddenProperties":[],
   "parent":{
     "name":"Level",
     "path":"folders/Objects/Level.yy",
   },
-  "parentObjectId":{
-    "name":"obj_push",
-    "path":"objects/obj_push/obj_push.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_key",
-    "path":"sprites/spr_key/spr_key.yy",
+    "name":"spr_door",
+    "path":"sprites/spr_door/spr_door.yy",
   },
   "spriteMaskId":null,
   "visible":true,

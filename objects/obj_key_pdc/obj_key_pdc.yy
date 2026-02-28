@@ -1,20 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"obj_key",
+  "%Name":"obj_key_pdc",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_key",
+  "name":"obj_key_pdc",
   "overriddenProperties":[],
   "parent":{
     "name":"Level",
     "path":"folders/Objects/Level.yy",
   },
-  "parentObjectId":{
-    "name":"obj_push",
-    "path":"objects/obj_push/obj_push.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_key",
-    "path":"sprites/spr_key/spr_key.yy",
+    "name":"spr_key_pdc",
+    "path":"sprites/spr_key_pdc/spr_key_pdc.yy",
   },
   "spriteMaskId":null,
   "visible":true,
