@@ -36,6 +36,7 @@
     {"id":{"name":"obj_push","path":"objects/obj_push/obj_push.yy",},},
     {"id":{"name":"obj_solido","path":"objects/obj_solido/obj_solido.yy",},},
     {"id":{"name":"rm_fase_1","path":"rooms/rm_fase_1/rm_fase_1.yy",},},
+    {"id":{"name":"rm_fase_2","path":"rooms/rm_fase_2/rm_fase_2.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"spr_key_pdc","path":"sprites/spr_key_pdc/spr_key_pdc.yy",},},
     {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},},
@@ -47,6 +48,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_fase_1","path":"rooms/rm_fase_1/rm_fase_1.yy",},},
+    {"roomId":{"name":"rm_fase_2","path":"rooms/rm_fase_2/rm_fase_2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
