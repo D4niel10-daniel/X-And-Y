@@ -28,6 +28,11 @@
   },
   "name":"X-And-Y",
   "resources":[
+    {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},},
+    {"id":{"name":"obj_player_h","path":"objects/obj_player_h/obj_player_h.yy",},},
+    {"id":{"name":"obj_player_v","path":"objects/obj_player_v/obj_player_v.yy",},},
+    {"id":{"name":"obj_solido","path":"objects/obj_solido/obj_solido.yy",},},
+    {"id":{"name":"rm_fase_1","path":"rooms/rm_fase_1/rm_fase_1.yy",},},
     {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},},
     {"id":{"name":"spr_player_h","path":"sprites/spr_player_h/spr_player_h.yy",},},
     {"id":{"name":"spr_player_v","path":"sprites/spr_player_v/spr_player_v.yy",},},
@@ -35,7 +40,9 @@
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
-  "RoomOrderNodes":[],
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rm_fase_1","path":"rooms/rm_fase_1/rm_fase_1.yy",},},
+  ],
   "templateType":"game",
   "TextureGroups":[
     {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
