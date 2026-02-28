@@ -28,6 +28,8 @@
   },
   "name":"X-And-Y",
   "resources":[
+    {"id":{"name":"obj_blocked","path":"objects/obj_blocked/obj_blocked.yy",},},
+    {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"obj_key_pdc","path":"objects/obj_key_pdc/obj_key_pdc.yy",},},
     {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},},
@@ -37,6 +39,10 @@
     {"id":{"name":"obj_solido","path":"objects/obj_solido/obj_solido.yy",},},
     {"id":{"name":"rm_fase_1","path":"rooms/rm_fase_1/rm_fase_1.yy",},},
     {"id":{"name":"rm_fase_2","path":"rooms/rm_fase_2/rm_fase_2.yy",},},
+    {"id":{"name":"rm_fase_3","path":"rooms/rm_fase_3/rm_fase_3.yy",},},
+    {"id":{"name":"rm_fase_4","path":"rooms/rm_fase_4/rm_fase_4.yy",},},
+    {"id":{"name":"spr_blocked","path":"sprites/spr_blocked/spr_blocked.yy",},},
+    {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"spr_key_pdc","path":"sprites/spr_key_pdc/spr_key_pdc.yy",},},
     {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},},
@@ -49,6 +55,8 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_fase_1","path":"rooms/rm_fase_1/rm_fase_1.yy",},},
     {"roomId":{"name":"rm_fase_2","path":"rooms/rm_fase_2/rm_fase_2.yy",},},
+    {"roomId":{"name":"rm_fase_3","path":"rooms/rm_fase_3/rm_fase_3.yy",},},
+    {"roomId":{"name":"rm_fase_4","path":"rooms/rm_fase_4/rm_fase_4.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

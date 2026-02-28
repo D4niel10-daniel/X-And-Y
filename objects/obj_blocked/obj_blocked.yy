@@ -1,17 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_door",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":82,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_blocked",
+  "eventList":[],
   "managed":true,
-  "name":"obj_door",
+  "name":"obj_blocked",
   "overriddenProperties":[],
   "parent":{
     "name":"Level",
     "path":"folders/Objects/Level.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_solido",
+    "path":"objects/obj_solido/obj_solido.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_door",
-    "path":"sprites/spr_door/spr_door.yy",
+    "name":"spr_blocked",
+    "path":"sprites/spr_blocked/spr_blocked.yy",
   },
   "spriteMaskId":null,
   "visible":true,
