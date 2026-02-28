@@ -31,6 +31,7 @@
     {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},},
     {"id":{"name":"obj_player_h","path":"objects/obj_player_h/obj_player_h.yy",},},
     {"id":{"name":"obj_player_v","path":"objects/obj_player_v/obj_player_v.yy",},},
+    {"id":{"name":"obj_push","path":"objects/obj_push/obj_push.yy",},},
     {"id":{"name":"obj_solido","path":"objects/obj_solido/obj_solido.yy",},},
     {"id":{"name":"rm_fase_1","path":"rooms/rm_fase_1/rm_fase_1.yy",},},
     {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},},

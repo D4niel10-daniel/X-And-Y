@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_key",
+  "%Name":"obj_push",
   "eventList":[],
   "managed":true,
-  "name":"obj_key",
+  "name":"obj_push",
   "overriddenProperties":[],
   "parent":{
     "name":"Level",
     "path":"folders/Objects/Level.yy",
   },
   "parentObjectId":{
-    "name":"obj_push",
-    "path":"objects/obj_push/obj_push.yy",
+    "name":"obj_solido",
+    "path":"objects/obj_solido/obj_solido.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
