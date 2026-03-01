@@ -22,7 +22,8 @@ if place_meeting(x,y,obj_door)
 	
 	};
 	
-	instance_destroy(obj_door);
+	obj_door.sprite_index=spr_door_abre;
+	
 	instance_destroy();
 	
 	};

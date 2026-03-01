@@ -43,6 +43,7 @@
     {"id":{"name":"rm_fase_4","path":"rooms/rm_fase_4/rm_fase_4.yy",},},
     {"id":{"name":"spr_blocked","path":"sprites/spr_blocked/spr_blocked.yy",},},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
+    {"id":{"name":"spr_door_abre","path":"sprites/spr_door_abre/spr_door_abre.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"spr_key_pdc","path":"sprites/spr_key_pdc/spr_key_pdc.yy",},},
     {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},},
